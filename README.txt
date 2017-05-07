@@ -1,3 +1,3 @@
 For help and information please visit:
 
-http://github.com/CommandFusion/CIP/wiki
+Forked repo http://github.com/CommandFusion/CIP/wiki
